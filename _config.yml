@@ -103,4 +103,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  repo:git@github.com:violetTkw/violettkw.github.io.git
 
